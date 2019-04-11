@@ -18,7 +18,7 @@ This framework is an addition for the main OptimoveSDK in order to handle notifi
   s.homepage         = 'https://github.com/elkanaoptimove/optimovesdk-beta'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'optimove.develop.mobile@gmail.com' => 'optimove.develop.mobile@gmail.com' }
-  s.source           = { :git => 'https://github.com/elkanaoptimove/optimovesdk-beta', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/elkanaoptimove/optimovesdk-beta.git', :tag => s.version.to_s }
   
 
   s.ios.deployment_target = '10.0'
